@@ -1,0 +1,10 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; height: 1018px; margin-top: 198px; margin-bottom: 319px; border-top-width: 235px; border-bottom-width: 249px;" />
+    <ui:VisualElement style="flex-grow: 1; height: -423px; justify-content: flex-end;">
+        <ui:Slider value="1.4" high-value="100" name="videoslider" style="width: 1147px; height: 245px; padding-left: 39px;" />
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-grow: 1; align-self: flex-start; justify-content: space-evenly; flex-direction: row; align-items: center; width: 1183px;">
+        <ui:Button text="Play" name="play" style="width: 195px; border-top-left-radius: 82px; border-top-right-radius: 82px; border-bottom-right-radius: 82px; border-bottom-left-radius: 82px; white-space: pre; height: 162px; font-size: 56px;" />
+        <ui:Button text="Pause" name="pause" style="border-top-left-radius: 77px; border-top-right-radius: 77px; border-bottom-right-radius: 77px; border-bottom-left-radius: 77px; width: 196px; height: 164px; font-size: 47px;" />
+    </ui:VisualElement>
+</ui:UXML>

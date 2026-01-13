@@ -48,8 +48,9 @@
     <Analyzer Include="E:\unity\6000.0.61f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NewMonoBehaviourScript.cs" />
-    <Compile Include="Assets\database.cs" />
+    <Compile Include="Assets\scripts\NewMonoBehaviourScript.cs" />
+    <Compile Include="Assets\scripts\videoplayerui.cs" />
+    <Compile Include="Assets\scripts\database.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\style sheet.uss" />
@@ -59,6 +60,7 @@
     <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppAuth.dll" />
     <None Include="Assets\style sheet2.uss" />
     <None Include="Assets\Firebase\Plugins\Firebase.TaskExtension.dll" />
+    <None Include="Assets\UIs\videoUI.uxml" />
     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
     <None Include="Assets\Firebase\Plugins\Firebase.Auth.dll" />
     <None Include="Assets\UIs\ui.uxml" />
@@ -1354,6 +1356,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="LeanCommon.csproj" />
+    <ProjectReference Include="CW.Common.csproj" />
+    <ProjectReference Include="LeanTouch.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

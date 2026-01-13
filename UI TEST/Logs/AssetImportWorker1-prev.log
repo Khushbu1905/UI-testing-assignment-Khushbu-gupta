@@ -1,9 +1,9 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.0/staging' branch; Version is '6000.0.61f1 (74a0adb02c31) revision 7643309'; Using compiler version '193933523'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Khushbu Gupta" at "2026-01-12T10:35:00.0022418Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Khushbu Gupta" at "2026-01-13T07:03:35.7013825Z"
 OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 23404 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2026-01-12T10:35:00Z
+Date: 2026-01-13T07:03:35Z
 
 COMMAND LINE ARGUMENTS:
 E:\unity\6000.0.61f1\Editor\Unity.exe
@@ -13,11 +13,11 @@ E:\unity\6000.0.61f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-E:/7th sem/unity/UI TEST
+E:/7th sem/unity/UI-testing-assignment-Khushbu-gupta/UI TEST
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-56176
+49449
 -licensingIpc
 LicenseClient-Khushbu Gupta
 -job-worker-count
@@ -28,8 +28,8 @@ LicenseClient-Khushbu Gupta
 1
 -name
 AssetImport
-Successfully changed project path to: E:/7th sem/unity/UI TEST
-E:/7th sem/unity/UI TEST
+Successfully changed project path to: E:/7th sem/unity/UI-testing-assignment-Khushbu-gupta/UI TEST
+E:/7th sem/unity/UI-testing-assignment-Khushbu-gupta/UI TEST
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -65,26 +65,26 @@ E:/7th sem/unity/UI TEST
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [34960]  Target information:
+Player connection [51740]  Target information:
 
-Player connection [34960]  * "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 3598100401 [EditorId] 3598100401 [Version] 1048832 [Id] WindowsEditor(7,Khushbu) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [51740]  * "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 4256166248 [EditorId] 4256166248 [Version] 1048832 [Id] WindowsEditor(7,Khushbu) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [34960] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [34960] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [51740] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [51740] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 58224, path: "E:/unity/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 68112, path: "E:/unity/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.17.4+4293ba1
-  Session Id:              8890a7b9d0ae4c6ab86415cc863694f9
-  Correlation Id:          e1c24c80857ce2ef1892f271570a9707
-  External correlation Id: 2507613185527579967
+  Session Id:              82dfa5dd62fa454fbc2ad313897a2006
+  Correlation Id:          ac3809a3711d2303b02c57fdae2df86c
+  External correlation Id: 8486988651899184761
   Machine Id:              GyFsKKGr8Sy2Q8xYroP9L0AZn5M=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Khushbu Gupta" (connect: 0.00s, validation: 0.00s, handshake: 0.06s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Khushbu Gupta-notifications" at "2026-01-12T10:35:00.0655285Z"
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Khushbu Gupta" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Khushbu Gupta-notifications" at "2026-01-13T07:03:35.7583775Z"
 [Licensing::Module] Licensing Background thread has ended after 0.06s
 Library Redirect Path: Library/
 [Physics::Module] Selected backend.
@@ -93,11 +93,11 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.64 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 6.65 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.61f1 (74a0adb02c31)
 [Subsystems] Discovering subsystems at path E:/unity/6000.0.61f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/7th sem/unity/UI TEST/Assets
+[Subsystems] Discovering subsystems at path E:/7th sem/unity/UI-testing-assignment-Khushbu-gupta/UI TEST/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -109,7 +109,7 @@ Initialize mono
 Mono path[0] = 'E:/unity/6000.0.61f1/Editor/Data/Managed'
 Mono path[1] = 'E:/unity/6000.0.61f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/unity/6000.0.61f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/unity/6000.0.61f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -123,43 +123,43 @@ Register platform support module: E:/unity/6000.0.61f1/Editor/Data/PlaybackEngin
 Register platform support module: E:/unity/6000.0.61f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
 [Licensing::Client] Successfully resolved entitlement details
 Register platform support module: E:/unity/6000.0.61f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.011921 seconds.
-- Loaded All Assemblies, in  0.469 seconds
+Registered in 0.012816 seconds.
+- Loaded All Assemblies, in  0.476 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 316 ms
+Android Extension - Scanning For ADB Devices 360 ms
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.750 seconds
-Domain Reload Profiling: 1219ms
-	BeginReloadAssembly (172ms)
+- Finished resetting the current domain, in  0.904 seconds
+Domain Reload Profiling: 1380ms
+	BeginReloadAssembly (171ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (39ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (58ms)
-	LoadAllAssembliesAndSetupDomain (187ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (185ms)
 		LoadAssemblies (172ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (183ms)
-			TypeCache.Refresh (181ms)
-				TypeCache.ScanAssembly (168ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (178ms)
+				TypeCache.ScanAssembly (164ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (750ms)
+	FinalizeReload (905ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (700ms)
+		SetupLoadedEditorAssemblies (841ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (416ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (139ms)
-			ProcessInitializeOnLoadMethodAttributes (66ms)
+			InitializePlatformSupportModulesInManaged (489ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (95ms)
+			ProcessInitializeOnLoadAttributes (174ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -169,8 +169,8 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 [Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  0.972 seconds
-Refreshing native plugins compatible for Editor in 1.92 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.316 seconds
+Refreshing native plugins compatible for Editor in 6.03 ms, found 7 plugins.
 Native extension for Android target not found
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
@@ -180,255 +180,53 @@ Package Manager log level set to [2]
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.079 seconds
-Domain Reload Profiling: 2050ms
-	BeginReloadAssembly (238ms)
+- Finished resetting the current domain, in  1.389 seconds
+Domain Reload Profiling: 2703ms
+	BeginReloadAssembly (307ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (11ms)
+		DisableScriptedObjects (8ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (36ms)
-	RebuildCommonClasses (43ms)
-	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (45ms)
-	LoadAllAssembliesAndSetupDomain (631ms)
-		LoadAssemblies (451ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (317ms)
-			TypeCache.Refresh (239ms)
-				TypeCache.ScanAssembly (219ms)
-			BuildScriptInfoCaches (63ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (1079ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (917ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (15ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (141ms)
-			ProcessInitializeOnLoadAttributes (619ms)
-			ProcessInitializeOnLoadMethodAttributes (134ms)
-			AfterProcessingInitializeOnLoad (2ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 3.80 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6727 unused Assets / (6.8 MB). Loaded Objects now: 7401.
-Memory consumption went from 146.3 MB to 139.4 MB.
-Total: 23.367900 ms (FindLiveObjects: 1.848600 ms CreateObjectMapping: 1.875100 ms MarkObjects: 12.992500 ms  DeleteObjects: 6.649800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1980196.653257 seconds.
-  path: Assets/ui.uxml
-  artifactKey: Guid(2871fe42a67a92e44b6a7592474ac6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ui.uxml using Guid(2871fe42a67a92e44b6a7592474ac6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e218d822a1820d078337712990d9bf54') in 0.1287418 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.878 seconds
-Refreshing native plugins compatible for Editor in 1.90 ms, found 4 plugins.
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.054 seconds
-Domain Reload Profiling: 1937ms
-	BeginReloadAssembly (274ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (17ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (68ms)
-	RebuildCommonClasses (41ms)
-	RebuildNativeTypeToScriptingClass (21ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (511ms)
-		LoadAssemblies (403ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (236ms)
-			TypeCache.Refresh (9ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (208ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (1055ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (877ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (13ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (158ms)
-			ProcessInitializeOnLoadAttributes (613ms)
-			ProcessInitializeOnLoadMethodAttributes (83ms)
-			AfterProcessingInitializeOnLoad (2ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (17ms)
-Refreshing native plugins compatible for Editor in 8.24 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (7.3 MB). Loaded Objects now: 7408.
-Memory consumption went from 147.8 MB to 140.5 MB.
-Total: 27.165300 ms (FindLiveObjects: 1.995900 ms CreateObjectMapping: 3.231900 ms MarkObjects: 14.482800 ms  DeleteObjects: 7.451300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.67 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6715 unused Assets / (7.3 MB). Loaded Objects now: 7408.
-Memory consumption went from 147.9 MB to 140.7 MB.
-Total: 35.806300 ms (FindLiveObjects: 2.893400 ms CreateObjectMapping: 2.763500 ms MarkObjects: 21.869200 ms  DeleteObjects: 8.278100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.47 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6715 unused Assets / (7.4 MB). Loaded Objects now: 7408.
-Memory consumption went from 147.9 MB to 140.6 MB.
-Total: 25.016100 ms (FindLiveObjects: 1.726600 ms CreateObjectMapping: 1.614300 ms MarkObjects: 14.226600 ms  DeleteObjects: 7.446500 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-[Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  1.145 seconds
-Refreshing native plugins compatible for Editor in 2.49 ms, found 4 plugins.
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.238 seconds
-Domain Reload Profiling: 2388ms
-	BeginReloadAssembly (351ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (23ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (78ms)
+		CreateAndSetChildDomain (44ms)
 	RebuildCommonClasses (56ms)
-	RebuildNativeTypeToScriptingClass (20ms)
-	initialDomainReloadingComplete (41ms)
-	LoadAllAssembliesAndSetupDomain (681ms)
-		LoadAssemblies (544ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (316ms)
-			TypeCache.Refresh (13ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (283ms)
-			ResolveRequiredComponents (15ms)
-	FinalizeReload (1239ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1008ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (17ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (186ms)
-			ProcessInitializeOnLoadAttributes (706ms)
-			ProcessInitializeOnLoadMethodAttributes (87ms)
-			AfterProcessingInitializeOnLoad (3ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (18ms)
-Refreshing native plugins compatible for Editor in 3.80 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (6.8 MB). Loaded Objects now: 7411.
-Memory consumption went from 147.8 MB to 141.1 MB.
-Total: 18.024500 ms (FindLiveObjects: 1.363900 ms CreateObjectMapping: 1.285800 ms MarkObjects: 9.685800 ms  DeleteObjects: 5.687100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-[Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  0.881 seconds
-Refreshing native plugins compatible for Editor in 1.80 ms, found 4 plugins.
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.058 seconds
-Domain Reload Profiling: 1944ms
-	BeginReloadAssembly (269ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (22ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (62ms)
-	RebuildCommonClasses (40ms)
 	RebuildNativeTypeToScriptingClass (15ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (529ms)
-		LoadAssemblies (423ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (876ms)
+		LoadAssemblies (659ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (232ms)
-			TypeCache.Refresh (7ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (205ms)
-			ResolveRequiredComponents (14ms)
-	FinalizeReload (1058ms)
+		AnalyzeDomain (414ms)
+			TypeCache.Refresh (301ms)
+				TypeCache.ScanAssembly (278ms)
+			BuildScriptInfoCaches (92ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1389ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (870ms)
+		SetupLoadedEditorAssemblies (1180ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (13ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (146ms)
-			ProcessInitializeOnLoadAttributes (618ms)
-			ProcessInitializeOnLoadMethodAttributes (84ms)
-			AfterProcessingInitializeOnLoad (3ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (182ms)
+			ProcessInitializeOnLoadAttributes (808ms)
+			ProcessInitializeOnLoadMethodAttributes (161ms)
+			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (20ms)
-Refreshing native plugins compatible for Editor in 4.72 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 10.15 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (8.5 MB). Loaded Objects now: 7414.
-Memory consumption went from 147.9 MB to 139.4 MB.
-Total: 30.368600 ms (FindLiveObjects: 1.868500 ms CreateObjectMapping: 1.794600 ms MarkObjects: 15.721900 ms  DeleteObjects: 10.981600 ms)
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6741 unused Assets / (4.8 MB). Loaded Objects now: 7434.
+Memory consumption went from 143.2 MB to 138.4 MB.
+Total: 22.997100 ms (FindLiveObjects: 1.799400 ms CreateObjectMapping: 3.271300 ms MarkObjects: 13.113600 ms  DeleteObjects: 4.808500 ms)
 
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 5.25 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6715 unused Assets / (6.7 MB). Loaded Objects now: 7414.
-Memory consumption went from 148.0 MB to 141.3 MB.
-Total: 25.636300 ms (FindLiveObjects: 2.078500 ms CreateObjectMapping: 4.198000 ms MarkObjects: 13.309000 ms  DeleteObjects: 6.048800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
 [Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  0.840 seconds
-Refreshing native plugins compatible for Editor in 1.85 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.893 seconds
+Refreshing native plugins compatible for Editor in 5.06 ms, found 7 plugins.
 Native extension for Android target not found
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
@@ -437,170 +235,423 @@ Native extension for WebGL target not found
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.894 seconds
-Domain Reload Profiling: 1739ms
-	BeginReloadAssembly (281ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (18ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (69ms)
-	RebuildCommonClasses (40ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (33ms)
-	LoadAllAssembliesAndSetupDomain (477ms)
-		LoadAssemblies (407ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (205ms)
-			TypeCache.Refresh (8ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (181ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (895ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (730ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (12ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (127ms)
-			ProcessInitializeOnLoadAttributes (524ms)
-			ProcessInitializeOnLoadMethodAttributes (59ms)
-			AfterProcessingInitializeOnLoad (2ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (17ms)
-Refreshing native plugins compatible for Editor in 4.02 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (7.3 MB). Loaded Objects now: 7417.
-Memory consumption went from 148.0 MB to 140.7 MB.
-Total: 20.391400 ms (FindLiveObjects: 1.307000 ms CreateObjectMapping: 1.322900 ms MarkObjects: 11.241000 ms  DeleteObjects: 6.518100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.805 seconds
-Refreshing native plugins compatible for Editor in 2.20 ms, found 4 plugins.
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.038 seconds
-Domain Reload Profiling: 1847ms
-	BeginReloadAssembly (252ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (19ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (51ms)
-	RebuildCommonClasses (37ms)
-	RebuildNativeTypeToScriptingClass (19ms)
-	initialDomainReloadingComplete (29ms)
-	LoadAllAssembliesAndSetupDomain (472ms)
-		LoadAssemblies (395ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (206ms)
-			TypeCache.Refresh (7ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (183ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (1038ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (856ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (16ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (145ms)
-			ProcessInitializeOnLoadAttributes (604ms)
-			ProcessInitializeOnLoadMethodAttributes (83ms)
-			AfterProcessingInitializeOnLoad (2ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (17ms)
-Refreshing native plugins compatible for Editor in 5.29 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (8.0 MB). Loaded Objects now: 7420.
-Memory consumption went from 147.9 MB to 139.9 MB.
-Total: 29.135700 ms (FindLiveObjects: 2.501300 ms CreateObjectMapping: 2.560900 ms MarkObjects: 14.673200 ms  DeleteObjects: 9.388000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 3.34 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6715 unused Assets / (7.2 MB). Loaded Objects now: 7420.
-Memory consumption went from 148.0 MB to 140.9 MB.
-Total: 22.730200 ms (FindLiveObjects: 1.513400 ms CreateObjectMapping: 1.795900 ms MarkObjects: 11.967200 ms  DeleteObjects: 7.452000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.839 seconds
-Refreshing native plugins compatible for Editor in 1.96 ms, found 4 plugins.
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.862 seconds
-Domain Reload Profiling: 1704ms
-	BeginReloadAssembly (273ms)
+- Finished resetting the current domain, in  0.963 seconds
+Domain Reload Profiling: 1860ms
+	BeginReloadAssembly (260ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (15ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (67ms)
-	RebuildCommonClasses (46ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (27ms)
-	LoadAllAssembliesAndSetupDomain (482ms)
-		LoadAssemblies (409ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (556ms)
+		LoadAssemblies (464ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (211ms)
-			TypeCache.Refresh (9ms)
+		AnalyzeDomain (222ms)
+			TypeCache.Refresh (8ms)
 				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (187ms)
+			BuildScriptInfoCaches (198ms)
 			ResolveRequiredComponents (11ms)
-	FinalizeReload (862ms)
+	FinalizeReload (965ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (703ms)
+		SetupLoadedEditorAssemblies (793ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (13ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (125ms)
-			ProcessInitializeOnLoadAttributes (497ms)
-			ProcessInitializeOnLoadMethodAttributes (61ms)
-			AfterProcessingInitializeOnLoad (2ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (128ms)
+			ProcessInitializeOnLoadAttributes (563ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (14ms)
-Refreshing native plugins compatible for Editor in 3.55 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 9.55 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (6.8 MB). Loaded Objects now: 7423.
-Memory consumption went from 148.0 MB to 141.2 MB.
-Total: 19.013800 ms (FindLiveObjects: 1.259300 ms CreateObjectMapping: 1.577600 ms MarkObjects: 9.911100 ms  DeleteObjects: 6.263900 ms)
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (5.1 MB). Loaded Objects now: 7438.
+Memory consumption went from 144.2 MB to 139.1 MB.
+Total: 23.422300 ms (FindLiveObjects: 1.653600 ms CreateObjectMapping: 2.029600 ms MarkObjects: 13.770200 ms  DeleteObjects: 5.966100 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
+Received Import Request.
+  Time since last request: 2055132.108325 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3f9215ea0144899419cfbc0957140d3f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3f9215ea0144899419cfbc0957140d3f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '49820c6f0cbcee0bfbac4c3a2e5e9fb2') in 0.2116419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Settings/Renderer2D.asset
+  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3773e755917b4683871205b834499dbb') in 0.0630089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.so
+  artifactKey: Guid(7e0d636394aa43cd80440641a013d37c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.so using Guid(7e0d636394aa43cd80440641a013d37c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c79557a08a07b69ec511964a5c83a20c') in 0.0196739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Firebase/Plugins/Firebase.App.dll
+  artifactKey: Guid(7311924048bd457bac6d713576c952da) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/Firebase.App.dll using Guid(7311924048bd457bac6d713576c952da) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b296f44a889f9b7be95b15a3a76d3208') in 0.0159291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Plugins/iOS/Firebase/libFirebaseCppApp.a
+  artifactKey: Guid(601e8e1d2d2744929ede33676cbeccc0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/iOS/Firebase/libFirebaseCppApp.a using Guid(601e8e1d2d2744929ede33676cbeccc0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c684eba562169fbdeb30f39d80716054') in 0.0163768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Firebase/Editor/AppDependencies.xml
+  artifactKey: Guid(9b63af95d9364af4a3d8ce58738b6223) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/AppDependencies.xml using Guid(9b63af95d9364af4a3d8ce58738b6223) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '809164bec0527a88e1aec55651c5b6fb') in 0.0154711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_auth_dark.png
+  artifactKey: Guid(3a9e1ef6287664c389bb09e2ac1b23b7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_auth_dark.png using Guid(3a9e1ef6287664c389bb09e2ac1b23b7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+ -> (artifact id: '0f68ce200e6676a01154836cd8937801') in 0.0511165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Firebase/Editor/DatabaseDependencies.xml
+  artifactKey: Guid(6f0764197a37428ba5aa9658907d1b56) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/DatabaseDependencies.xml using Guid(6f0764197a37428ba5aa9658907d1b56) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '167afa68d4ff1fb48d70032647b42f94') in 0.0159081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Firebase/Editor/network_request.py
+  artifactKey: Guid(e6e32fecbfd44fab946fa160e4861924) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/network_request.py using Guid(e6e32fecbfd44fab946fa160e4861924) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b0b5b0d15a1e17c8494a698e5016d08c') in 0.0143192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Plugins/tvOS/Firebase/libFirebaseCppApp.a
+  artifactKey: Guid(46cff64d2cc446bb8fb0137f39fbbf57) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/tvOS/Firebase/libFirebaseCppApp.a using Guid(46cff64d2cc446bb8fb0137f39fbbf57) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '95fc915ad68d93d0166340be9a5eeecb') in 0.0147769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Firebase/Plugins/Firebase.TaskExtension.dll
+  artifactKey: Guid(f5d4069c578548ba9f199b46d61bf06d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/Firebase.TaskExtension.dll using Guid(f5d4069c578548ba9f199b46d61bf06d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4cb2b97b8c74d7c07f87eacf1e2c19c4') in 0.0165636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/13.6.0/firebase-auth-unity-13.6.0.srcaar
+  artifactKey: Guid(efc64d18a6064f3789f43228dbd479b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/13.6.0/firebase-auth-unity-13.6.0.srcaar using Guid(efc64d18a6064f3789f43228dbd479b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8c7997626d6cf01ab2481ef9cce09e4f') in 0.0146303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png
+  artifactKey: Guid(837e8e1f35e334e81931d0857680cebf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png using Guid(837e8e1f35e334e81931d0857680cebf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '609a95f0944145c76aaf7fc0c5390f2d') in 0.0199447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml
+  artifactKey: Guid(96337775a7c941d88ea15f8026ad6f8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml using Guid(96337775a7c941d88ea15f8026ad6f8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd20c26b98e5a53629b61afdb110febfa') in 0.0143074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Scenes/URP2DSceneTemplate.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd4e8a9340c5875aef00f99ec795e241c') in 0.0143581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Firebase/Editor/Firebase.Editor.pdb
+  artifactKey: Guid(f2ceb9c446ee4196b6476d4978a416b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/Firebase.Editor.pdb using Guid(f2ceb9c446ee4196b6476d4978a416b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3fe3745188b8d294344de87d65f2eb19') in 0.0131599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_functions_dark.png
+  artifactKey: Guid(b5aa3e4f7432e1c5698417cc13f85271) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_functions_dark.png using Guid(b5aa3e4f7432e1c5698417cc13f85271) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bd28349939ffd67a22e7e714d5a18810') in 0.0204787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Firebase/Editor/Firebase.Editor.dll
+  artifactKey: Guid(9f2edbf81053418f879076c05f816dc2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/Firebase.Editor.dll using Guid(9f2edbf81053418f879076c05f816dc2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd523f9bc003ad3bb3a4ec5c8e386952c') in 0.0261318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_6_0.so
+  artifactKey: Guid(af6ec1f2557f4a238c5b820d2e7336ea) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_6_0.so using Guid(af6ec1f2557f4a238c5b820d2e7336ea) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f8c384b22125585dedbcad511fa7e28f') in 0.0191401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+  artifactKey: Guid(ae88c0972b7448b5b36def1716f1d711) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/generate_xml_from_google_services_json.exe using Guid(ae88c0972b7448b5b36def1716f1d711) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c6c1268bbf0ffff7bd81f33d0a62fb08') in 0.0149616 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/GoogleService-Info.plist
+  artifactKey: Guid(169f0935f8a6a2b46bbc2eb023e0de99) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/GoogleService-Info.plist using Guid(169f0935f8a6a2b46bbc2eb023e0de99) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '71d9a96de69368d2a665338a11f80f88') in 0.0149086 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.dll
+  artifactKey: Guid(91cff42aa8b64de8ab09a800422f650f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.dll using Guid(91cff42aa8b64de8ab09a800422f650f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f2ab9e066e3f8f1a1e0950236232ac12') in 0.0154219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Firebase/Plugins/Firebase.Database.dll
+  artifactKey: Guid(e83b244ec0d14450bf6ed3af79ba515c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/Firebase.Database.dll using Guid(e83b244ec0d14450bf6ed3af79ba515c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'beb82cd8ce6dbd3ae0d90d3962004f07') in 0.0186338 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_storage_dark.png
+  artifactKey: Guid(2955864b938094f579ea9902b65ac10c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_storage_dark.png using Guid(2955864b938094f579ea9902b65ac10c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2a42d45dc1235463f05c85804d31fe18') in 0.0222731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Firebase/Plugins/Firebase.Platform.pdb
+  artifactKey: Guid(af8fc0c835824578b855d4c0ed7b16ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/Firebase.Platform.pdb using Guid(af8fc0c835824578b855d4c0ed7b16ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd30700e732e1e661b5f24cebbd1d1aac') in 0.0153618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/style sheet2.uss
+  artifactKey: Guid(158e024cc86c86c4f9cdb67b6322b837) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/style sheet2.uss using Guid(158e024cc86c86c4f9cdb67b6322b837) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9815c639fc2b8d2799703b0c360ebe3c') in 0.0323734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Editor Default Resources/Firebase/firebase_lockup.png
+  artifactKey: Guid(9f058f25e8e2d47cfb894951d4d7e48a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/firebase_lockup.png using Guid(9f058f25e8e2d47cfb894951d4d7e48a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ab9b7278f64566629be5bf82fc1e8e9f') in 0.0215857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/New Panel Settings.asset
+  artifactKey: Guid(19725f8530d25e54fb824b157a4cdabc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/New Panel Settings.asset using Guid(19725f8530d25e54fb824b157a4cdabc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bf63ac07f636680efa9d000329cf1749') in 0.0488219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_crashlytics.png
+  artifactKey: Guid(008a5e76206e49f9b06d8ba144aabb38) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_crashlytics.png using Guid(008a5e76206e49f9b06d8ba144aabb38) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f5bca79ab5864301a34b0be89d9b6aae') in 0.0183582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png
+  artifactKey: Guid(20c5b8a1f82cb4aadb77ca20683d2a6e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png using Guid(20c5b8a1f82cb4aadb77ca20683d2a6e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4bde926f3bf137c97dd7eb4026f47e99') in 0.0194554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Firebase/Plugins/iOS/Firebase.Auth.pdb
+  artifactKey: Guid(1e2d4187fd0d4ec4921481b6dda0826c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/iOS/Firebase.Auth.pdb using Guid(1e2d4187fd0d4ec4921481b6dda0826c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0ed8e46bd67a975e7a84ac3d4e338f61') in 0.0131033 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Plugins/iOS/Firebase/libFirebaseCppDatabase.a
+  artifactKey: Guid(5a0e503a787b4bd2a2636712f2fb7dc0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/iOS/Firebase/libFirebaseCppDatabase.a using Guid(5a0e503a787b4bd2a2636712f2fb7dc0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '478dd355ea02586e63683db0e9e31805') in 0.016363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/13.6.0/firebase-database-unity-13.6.0.srcaar
+  artifactKey: Guid(6c04ddf2a43a4df987b3bd9eea5850e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/13.6.0/firebase-database-unity-13.6.0.srcaar using Guid(6c04ddf2a43a4df987b3bd9eea5850e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e72812bae840284ee711a39c014df438') in 0.0125309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/google-services.json
+  artifactKey: Guid(e29010d11b63b7440b834528c374207f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/google-services.json using Guid(e29010d11b63b7440b834528c374207f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9f44b3938e9a61dafc939f6a82bb01a7') in 0.0158198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/style sheet.uss
+  artifactKey: Guid(40e8d3f14c71c9d4aa89cc4d195a6ecf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/style sheet.uss using Guid(40e8d3f14c71c9d4aa89cc4d195a6ecf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5c042e7aae4daa99462fb8da5d726e5e') in 0.0175861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_database.png
+  artifactKey: Guid(3eea7b558c67b48e18acf3c278392e3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_database.png using Guid(3eea7b558c67b48e18acf3c278392e3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fa6bdb303cddccc4f45b99f697151797') in 0.0210545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_config.png
+  artifactKey: Guid(415eaec414af14d11955222a282aca08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_config.png using Guid(415eaec414af14d11955222a282aca08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2179e2162dcc866734caab1cf58d1076') in 0.0251053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Firebase/Editor/network_request.exe
+  artifactKey: Guid(d3cd5d0a941c4cdc8ab4b1b684b05191) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Editor/network_request.exe using Guid(d3cd5d0a941c4cdc8ab4b1b684b05191) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'acd0fa5fe6b976022a661b927dab0fe4') in 0.0130517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Firebase/Plugins/Firebase.Auth.dll
+  artifactKey: Guid(275bd6b96a28470986154b9a995e191c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/Firebase.Auth.dll using Guid(275bd6b96a28470986154b9a995e191c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b973dbac7ac37b0214e2fb5285893803') in 0.0167738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ea705aeb40d2f90761dd7d8a2b70dafc') in 0.0877913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Firebase/Plugins/iOS/Firebase.App.pdb
+  artifactKey: Guid(e96748f6edd2467b95622dee98523c65) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/iOS/Firebase.App.pdb using Guid(e96748f6edd2467b95622dee98523c65) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd64190b3defc653a960f65a885829561') in 0.0200636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.927437 seconds.
+  path: Assets/Editor Default Resources/Firebase/fb_database_dark.png
+  artifactKey: Guid(9f6bfa9d8aefb40dc92461c372c73b0f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/fb_database_dark.png using Guid(9f6bfa9d8aefb40dc92461c372c73b0f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '27e0569a5766d736e4c4c787d7c935d4') in 0.0220932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.bundle
+  artifactKey: Guid(9ec52349a51f4191b990ac6c1f7ac130) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.bundle using Guid(9ec52349a51f4191b990ac6c1f7ac130) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '11653f9141913567c1614dccaa7e3040') in 0.0183198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml
+  artifactKey: Guid(397f194fd08a4159906375d8838517fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml using Guid(397f194fd08a4159906375d8838517fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c7b5e92cac3d7fa5554357304746d537') in 0.0155269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png
+  artifactKey: Guid(b93330fc8ea08407dbc514b5101afa14) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png using Guid(b93330fc8ea08407dbc514b5101afa14) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3123bc05813c1d5a93501bbb06d2b950') in 0.0265238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/13.6.0/firebase-database-unity-13.6.0.pom
+  artifactKey: Guid(d612d7f008e7461c842dccb6e5dd5dff) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/13.6.0/firebase-database-unity-13.6.0.pom using Guid(d612d7f008e7461c842dccb6e5dd5dff) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '53cb4c63a9c54521b1f2e5891a7c8e95') in 0.0172049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.789 seconds
-Refreshing native plugins compatible for Editor in 1.90 ms, found 4 plugins.
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.878 seconds
+Refreshing native plugins compatible for Editor in 6.07 ms, found 7 plugins.
 Native extension for Android target not found
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
@@ -609,53 +660,154 @@ Native extension for WebGL target not found
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.063 seconds
-Domain Reload Profiling: 1855ms
-	BeginReloadAssembly (249ms)
+- Finished resetting the current domain, in  1.055 seconds
+Domain Reload Profiling: 1935ms
+	BeginReloadAssembly (289ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (14ms)
+		DisableScriptedObjects (17ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (52ms)
-	RebuildCommonClasses (37ms)
+		CreateAndSetChildDomain (86ms)
+	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (29ms)
-	LoadAllAssembliesAndSetupDomain (465ms)
-		LoadAssemblies (394ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (430ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (202ms)
-			TypeCache.Refresh (7ms)
+		AnalyzeDomain (209ms)
+			TypeCache.Refresh (6ms)
 				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (180ms)
+			BuildScriptInfoCaches (187ms)
 			ResolveRequiredComponents (11ms)
-	FinalizeReload (1063ms)
+	FinalizeReload (1055ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (879ms)
+		SetupLoadedEditorAssemblies (881ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (20ms)
-			SetLoadedEditorAssemblies (7ms)
-			BeforeProcessingInitializeOnLoad (138ms)
-			ProcessInitializeOnLoadAttributes (629ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (126ms)
+			ProcessInitializeOnLoadAttributes (655ms)
 			ProcessInitializeOnLoadMethodAttributes (81ms)
 			AfterProcessingInitializeOnLoad (3ms)
-			EditorAssembliesLoaded (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 9.96 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6744 unused Assets / (5.0 MB). Loaded Objects now: 7445.
+Memory consumption went from 145.2 MB to 140.2 MB.
+Total: 20.636300 ms (FindLiveObjects: 1.402900 ms CreateObjectMapping: 2.176900 ms MarkObjects: 11.098200 ms  DeleteObjects: 5.954800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 6467.106734 seconds.
+  path: Assets/UIs/videoUI.uxml
+  artifactKey: Guid(860b0e82c931b0c428faf6c101b9ce3b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/UIs/videoUI.uxml using Guid(860b0e82c931b0c428faf6c101b9ce3b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '15947876af46236a6b4860b0d1a832b2') in 0.9054289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.25 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.2 MB). Loaded Objects now: 7445.
+Memory consumption went from 145.5 MB to 141.3 MB.
+Total: 19.182300 ms (FindLiveObjects: 1.278800 ms CreateObjectMapping: 1.626400 ms MarkObjects: 11.977100 ms  DeleteObjects: 4.298500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 156.092300 seconds.
+  path: Assets/scripts/NewMonoBehaviourScript.cs
+  artifactKey: Guid(41d13bb6638c42944860efe7e0d062b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/scripts/NewMonoBehaviourScript.cs using Guid(41d13bb6638c42944860efe7e0d062b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f8fdb81541127ee61ca4041cd14b112d') in 0.0434216 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  4.881 seconds
+Refreshing native plugins compatible for Editor in 6.21 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.102 seconds
+Domain Reload Profiling: 5985ms
+	BeginReloadAssembly (699ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (27ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (126ms)
+	RebuildCommonClasses (169ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (3953ms)
+		LoadAssemblies (4174ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (253ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (219ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1103ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (918ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (654ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (19ms)
-Refreshing native plugins compatible for Editor in 9.70 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 7.73 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (7.8 MB). Loaded Objects now: 7426.
-Memory consumption went from 148.1 MB to 140.2 MB.
-Total: 31.641000 ms (FindLiveObjects: 1.683200 ms CreateObjectMapping: 2.188900 ms MarkObjects: 16.031900 ms  DeleteObjects: 11.734900 ms)
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.4 MB). Loaded Objects now: 7448.
+Memory consumption went from 145.2 MB to 140.8 MB.
+Total: 17.632900 ms (FindLiveObjects: 1.375000 ms CreateObjectMapping: 2.743700 ms MarkObjects: 9.612500 ms  DeleteObjects: 3.899600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.44 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.6 MB). Loaded Objects now: 7448.
+Memory consumption went from 145.2 MB to 140.6 MB.
+Total: 17.822000 ms (FindLiveObjects: 1.409700 ms CreateObjectMapping: 2.402900 ms MarkObjects: 10.042600 ms  DeleteObjects: 3.964300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.39 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.8 MB). Loaded Objects now: 7448.
+Memory consumption went from 145.2 MB to 140.4 MB.
+Total: 18.243700 ms (FindLiveObjects: 1.693200 ms CreateObjectMapping: 1.661600 ms MarkObjects: 9.637100 ms  DeleteObjects: 5.249400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
 [Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  3.979 seconds
-Refreshing native plugins compatible for Editor in 2.69 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.969 seconds
+Refreshing native plugins compatible for Editor in 4.69 ms, found 7 plugins.
 Native extension for Android target not found
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
@@ -664,87 +816,990 @@ Native extension for WebGL target not found
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.232 seconds
-Domain Reload Profiling: 5217ms
-	BeginReloadAssembly (599ms)
+- Finished resetting the current domain, in  0.920 seconds
+Domain Reload Profiling: 1892ms
+	BeginReloadAssembly (298ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (584ms)
+		LoadAssemblies (487ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (241ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (214ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (921ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (753ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (133ms)
+			ProcessInitializeOnLoadAttributes (531ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.21 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.7 MB). Loaded Objects now: 7451.
+Memory consumption went from 145.2 MB to 140.5 MB.
+Total: 17.295000 ms (FindLiveObjects: 1.516500 ms CreateObjectMapping: 1.666900 ms MarkObjects: 9.418800 ms  DeleteObjects: 4.690500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.900 seconds
+Refreshing native plugins compatible for Editor in 6.37 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.922 seconds
+Domain Reload Profiling: 1824ms
+	BeginReloadAssembly (261ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (543ms)
+		LoadAssemblies (459ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (219ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (922ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (749ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (531ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 8.61 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.6 MB). Loaded Objects now: 7454.
+Memory consumption went from 145.2 MB to 140.6 MB.
+Total: 20.234600 ms (FindLiveObjects: 1.815800 ms CreateObjectMapping: 1.493900 ms MarkObjects: 11.121800 ms  DeleteObjects: 5.800800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.49 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.7 MB). Loaded Objects now: 7454.
+Memory consumption went from 145.2 MB to 140.5 MB.
+Total: 21.526400 ms (FindLiveObjects: 2.616600 ms CreateObjectMapping: 2.145700 ms MarkObjects: 11.242200 ms  DeleteObjects: 5.519700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.081 seconds
+Refreshing native plugins compatible for Editor in 7.37 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.122 seconds
+Domain Reload Profiling: 2207ms
+	BeginReloadAssembly (313ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (20ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (53ms)
-	RebuildCommonClasses (177ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (31ms)
-	LoadAllAssembliesAndSetupDomain (3165ms)
-		LoadAssemblies (3364ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (654ms)
+		LoadAssemblies (540ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (270ms)
-			TypeCache.Refresh (9ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (13ms)
 				TypeCache.ScanAssembly (0ms)
 			BuildScriptInfoCaches (242ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (1233ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1122ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1012ms)
+		SetupLoadedEditorAssemblies (925ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (180ms)
+			ProcessInitializeOnLoadAttributes (653ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.90 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.9 MB). Loaded Objects now: 7457.
+Memory consumption went from 145.3 MB to 140.4 MB.
+Total: 18.800800 ms (FindLiveObjects: 1.578800 ms CreateObjectMapping: 1.620400 ms MarkObjects: 9.908200 ms  DeleteObjects: 5.691400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 29.61 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (6.2 MB). Loaded Objects now: 7457.
+Memory consumption went from 145.3 MB to 139.1 MB.
+Total: 48.698400 ms (FindLiveObjects: 1.563000 ms CreateObjectMapping: 3.850000 ms MarkObjects: 35.004900 ms  DeleteObjects: 8.278500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 17.25 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.9 MB). Loaded Objects now: 7457.
+Memory consumption went from 145.3 MB to 140.4 MB.
+Total: 30.671600 ms (FindLiveObjects: 1.545700 ms CreateObjectMapping: 2.845100 ms MarkObjects: 18.983200 ms  DeleteObjects: 7.296200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.906 seconds
+Refreshing native plugins compatible for Editor in 4.92 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.908 seconds
+Domain Reload Profiling: 1817ms
+	BeginReloadAssembly (268ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (557ms)
+		LoadAssemblies (456ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (233ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (205ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (909ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (737ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (119ms)
+			ProcessInitializeOnLoadAttributes (536ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 9.31 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.6 MB). Loaded Objects now: 7460.
+Memory consumption went from 145.3 MB to 140.7 MB.
+Total: 16.569500 ms (FindLiveObjects: 1.256600 ms CreateObjectMapping: 1.601500 ms MarkObjects: 9.692300 ms  DeleteObjects: 4.017500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.36 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6714 unused Assets / (4.6 MB). Loaded Objects now: 7460.
+Memory consumption went from 145.3 MB to 140.7 MB.
+Total: 19.039100 ms (FindLiveObjects: 1.455300 ms CreateObjectMapping: 1.898200 ms MarkObjects: 10.678600 ms  DeleteObjects: 5.005400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.114 seconds
+Refreshing native plugins compatible for Editor in 5.82 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.119 seconds
+Domain Reload Profiling: 2235ms
+	BeginReloadAssembly (333ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (672ms)
+		LoadAssemblies (568ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (274ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (243ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1119ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (933ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (16ms)
-			SetLoadedEditorAssemblies (8ms)
+			SetLoadedEditorAssemblies (4ms)
 			BeforeProcessingInitializeOnLoad (173ms)
-			ProcessInitializeOnLoadAttributes (723ms)
-			ProcessInitializeOnLoadMethodAttributes (89ms)
+			ProcessInitializeOnLoadAttributes (658ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.34 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (4.8 MB). Loaded Objects now: 7463.
+Memory consumption went from 145.4 MB to 140.6 MB.
+Total: 18.665300 ms (FindLiveObjects: 1.405400 ms CreateObjectMapping: 2.088200 ms MarkObjects: 10.174800 ms  DeleteObjects: 4.995100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.860 seconds
+Refreshing native plugins compatible for Editor in 4.70 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.977 seconds
+Domain Reload Profiling: 1846ms
+	BeginReloadAssembly (247ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (535ms)
+		LoadAssemblies (444ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (217ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (196ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (984ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (796ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (120ms)
+			ProcessInitializeOnLoadAttributes (580ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 9.30 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6739 unused Assets / (5.0 MB). Loaded Objects now: 7466.
+Memory consumption went from 145.4 MB to 140.4 MB.
+Total: 24.150900 ms (FindLiveObjects: 1.565600 ms CreateObjectMapping: 2.777400 ms MarkObjects: 13.810100 ms  DeleteObjects: 5.995900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.775 seconds
+Refreshing native plugins compatible for Editor in 7.84 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.464 seconds
+Domain Reload Profiling: 3245ms
+	BeginReloadAssembly (747ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (134ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (228ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (926ms)
+		LoadAssemblies (817ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (334ms)
+			TypeCache.Refresh (25ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (286ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1464ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1232ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (196ms)
+			ProcessInitializeOnLoadAttributes (928ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
 			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (20ms)
-Refreshing native plugins compatible for Editor in 2.97 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 13.23 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6725 unused Assets / (7.2 MB). Loaded Objects now: 7429.
-Memory consumption went from 148.1 MB to 140.9 MB.
-Total: 16.579400 ms (FindLiveObjects: 0.966500 ms CreateObjectMapping: 1.319900 ms MarkObjects: 7.807000 ms  DeleteObjects: 6.483600 ms)
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6802 unused Assets / (5.4 MB). Loaded Objects now: 7528.
+Memory consumption went from 146.7 MB to 141.3 MB.
+Total: 32.390800 ms (FindLiveObjects: 1.729500 ms CreateObjectMapping: 2.202700 ms MarkObjects: 19.027000 ms  DeleteObjects: 9.429800 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Import Request.
-  Time since last request: 5578.645002 seconds.
-  path: Assets/InputSystem_Actions.inputactions
-  artifactKey: Guid(2bcd2660ca9b64942af0de543d8d7100) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/InputSystem_Actions.inputactions using Guid(2bcd2660ca9b64942af0de543d8d7100) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '95b192e59c2ddc327ec23aea12ba0d22') in 0.5096168 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e7a129b219a48ca94f4f3cbafb2c00a2') in 0.0993183 seconds
+  Time since last request: 12861.593384 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwInputManager.cs
+  artifactKey: Guid(8da33d20535c346499a0c78cabe4d750) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwInputManager.cs using Guid(8da33d20535c346499a0c78cabe4d750) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd2b46b6d9aa13e8321c36c785b9727f7') in 0.9464193 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Settings/Lit2DSceneTemplate.scenetemplate
-  artifactKey: Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dc6dc2dc743536228aa650241fbedd95') in 0.0660897 seconds
+  Time since last request: 0.000030 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Materials/Green.mat
+  artifactKey: Guid(a7c2868437eddf248a6deb329de23d8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Materials/Green.mat using Guid(a7c2868437eddf248a6deb329de23d8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b6919783f72bc4210971aca98da9e325') in 0.035251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Textures/BigLogo+.png
+  artifactKey: Guid(864e18f746f74c347b411bcb8a69d426) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Textures/BigLogo+.png using Guid(864e18f746f74c347b411bcb8a69d426) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '264b8ae90282a408383da13ff95afee2') in 0.0778666 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Settings/UniversalRP.asset
-  artifactKey: Guid(681886c5eb7344803b6206f758bf0b1c) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/Settings/UniversalRP.asset using Guid(681886c5eb7344803b6206f758bf0b1c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '11d49696f8f969316f53a61dd2c9bdf2') in 0.0557327 seconds
+  Time since last request: 0.000016 seconds.
+  path: Assets/Plugins/CW/LeanCommon/package.json
+  artifactKey: Guid(5b161f7eaaf64aa40ba67688774eb06f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/package.json using Guid(5b161f7eaaf64aa40ba67688774eb06f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b7fe34502771e18e2ec208506733aea9') in 0.0220289 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000022 seconds.
-  path: Assets/New Panel Settings.asset
-  artifactKey: Guid(19725f8530d25e54fb824b157a4cdabc) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/New Panel Settings.asset using Guid(19725f8530d25e54fb824b157a4cdabc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f03057e5870f4d155cfc7c598a3a9c0b') in 0.0573343 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+  path: Assets/Plugins/CW/LeanCommon/Required/Documentation.html
+  artifactKey: Guid(343b9ec9f5c2b3a43b6e4cd68f5286ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Required/Documentation.html using Guid(343b9ec9f5c2b3a43b6e4cd68f5286ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b9e9b39b9abd1a59699c964042ec1f93') in 0.0161392 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000897 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Shaders
+  artifactKey: Guid(b77d517d5da251844a7289759e258705) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Shaders using Guid(b77d517d5da251844a7289759e258705) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4b6b59509f2327d0a86148ac24c003d0') in 0.0179431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Materials/Grid.mat
+  artifactKey: Guid(41cd2401d126859418d064ea8f4fee8c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Materials/Grid.mat using Guid(41cd2401d126859418d064ea8f4fee8c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7c962da3eef665b066df062bfed52aa2') in 0.0244504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/CW/READ ME.txt
+  artifactKey: Guid(f6ff8a5c80a68bc458c5d91349bf10ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/READ ME.txt using Guid(f6ff8a5c80a68bc458c5d91349bf10ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ccc1f16894ec10ccb0f003c39a2fbd53') in 0.0157629 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Prefabs/Demo.prefab
+  artifactKey: Guid(298daca7decb9f846b5ff996ee97a495) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Prefabs/Demo.prefab using Guid(298daca7decb9f846b5ff996ee97a495) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c2af8e4ed7fac0482746c23bc3a62e6c') in 0.0669108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 48
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/17    Limit = Deselect First.unity
+  artifactKey: Guid(0ff9b8a646d45e64182dafde410dce07) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/17    Limit = Deselect First.unity using Guid(0ff9b8a646d45e64182dafde410dce07) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '34328d724c59edc64210a23c0efa73b0') in 0.0207524 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.259101 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Materials/White.mat
+  artifactKey: Guid(c4dab12b6ad08384ba8a3ce2f7eba5f7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Materials/White.mat using Guid(c4dab12b6ad08384ba8a3ce2f7eba5f7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f2114fb59ea1eaf9a6377bac7dd194c1') in 0.0236448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Textures
+  artifactKey: Guid(af3fc97bf8101614b8930d5fe8aad541) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Textures using Guid(af3fc97bf8101614b8930d5fe8aad541) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '32ed3fa085272050367859eb86ff4521') in 0.0238341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwSeedAttribute.cs
+  artifactKey: Guid(d0c2debde2a068741bac1cf9efca66ac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwSeedAttribute.cs using Guid(d0c2debde2a068741bac1cf9efca66ac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f6ef715bb2fb3cbad495dcf42c9a5718') in 0.0190679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.239931 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Shaders/RimAlpha.shader
+  artifactKey: Guid(0d949f33aae55df4d92d64ec31581556) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Shaders/RimAlpha.shader using Guid(0d949f33aae55df4d92d64ec31581556) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3de5544c420f55deffbe202e4615d5e8') in 0.022549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Textures/ArrowStraight.png
+  artifactKey: Guid(f613827a3c667ec40b5b739c13f5524c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Textures/ArrowStraight.png using Guid(f613827a3c667ec40b5b739c13f5524c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '74bdd976031b7c1d9ea105e7ce8c1d13') in 0.0367131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.314136 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Materials/Purple.mat
+  artifactKey: Guid(2c57751e748651a4c9bd8f9f48e8cf5e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Materials/Purple.mat using Guid(2c57751e748651a4c9bd8f9f48e8cf5e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd3d26f81b18e90f6d8ee16193aa72ab1') in 0.0254227 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelect.cs
+  artifactKey: Guid(d63d4be4bed5744479160ea1148b5821) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelect.cs using Guid(d63d4be4bed5744479160ea1148b5821) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb33f449469f0baae0ee39bc1816ac45') in 0.0168827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.333390 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableSpriteRendererColor.cs
+  artifactKey: Guid(a45146ec471801c4dbce44f8dd62608f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableSpriteRendererColor.cs using Guid(a45146ec471801c4dbce44f8dd62608f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '21ae911663a4a51d7712e8f71f66d080') in 0.0177061 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Fonts
+  artifactKey: Guid(206ff270d3884e74193a896d61f583c6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Fonts using Guid(206ff270d3884e74193a896d61f583c6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '20fa3dc5f6baae0cd3a5b07410d8ea13') in 0.0205662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanFingerData.cs
+  artifactKey: Guid(ccb7719577ee2df4f9d57e4689532994) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanFingerData.cs using Guid(ccb7719577ee2df4f9d57e4689532994) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b8be7a88161659700e839fe04a478d92') in 0.0189797 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.271749 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemoButtonBuilder.cs
+  artifactKey: Guid(ee2055732bd5a4a4a8f4fe43e20eca6e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemoButtonBuilder.cs using Guid(ee2055732bd5a4a4a8f4fe43e20eca6e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ff0e5eeb99bc862720b1ea15cb44dd5') in 0.019577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Materials/Skybox.mat
+  artifactKey: Guid(17380c24072c0954898ab03528ac9077) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Materials/Skybox.mat using Guid(17380c24072c0954898ab03528ac9077) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'acd290e7e439593917fdd110b042606d') in 0.0242307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts
+  artifactKey: Guid(c95535bafe00e6246b55d926ae78e64b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts using Guid(c95535bafe00e6246b55d926ae78e64b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b266d3f1eba5e190c4461c6bb7cceab7') in 0.0198289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266154 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Materials/Blue.mat
+  artifactKey: Guid(69c3c648559bfd34eaae3ff327107596) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Materials/Blue.mat using Guid(69c3c648559bfd34eaae3ff327107596) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '43ab7e2a77129ca08460ce79cef2ef07') in 0.0277379 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Required/Scripts/CwGuide.cs
+  artifactKey: Guid(40a2a791e0ffb554885467adbda44772) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Required/Scripts/CwGuide.cs using Guid(40a2a791e0ffb554885467adbda44772) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '52ef9a282518ca7b06862189437f85ab') in 0.0217328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPlane.cs
+  artifactKey: Guid(e167f5141e8fbbb429990fdd6dca01c5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPlane.cs using Guid(e167f5141e8fbbb429990fdd6dca01c5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'efc64e90a08bdb2afe47684ac0158acc') in 0.0178514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.238172 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Required
+  artifactKey: Guid(c2b155d4e1643904ead98b8da538422d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Required using Guid(c2b155d4e1643904ead98b8da538422d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6fb454e44aaf3282e771528d56baeb16') in 0.0229043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/04    Rotation.unity
+  artifactKey: Guid(c525e5b6627cf214993e6e54947d3194) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/04    Rotation.unity using Guid(c525e5b6627cf214993e6e54947d3194) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7b6dba8bd90018b1c887c8ed950a4748') in 0.022934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.342456 seconds.
+  path: Assets/Plugins/CW/LeanTouch
+  artifactKey: Guid(fa389a3f9b662a541bcf774f99b89553) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch using Guid(fa389a3f9b662a541bcf774f99b89553) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ecd40283142e8e49606a8d47604f3140') in 0.0162345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableRendererColor.cs
+  artifactKey: Guid(2baa936f016a9a14e86ac8ea42211f4a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableRendererColor.cs using Guid(2baa936f016a9a14e86ac8ea42211f4a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5f5e48e9fe522bf09930442456585f1c') in 0.0227836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Textures/GlowingDot.png
+  artifactKey: Guid(9901a65a1d946ed4db1bc132812d1f0b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Textures/GlowingDot.png using Guid(9901a65a1d946ed4db1bc132812d1f0b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ba07cd00f20afcd0f9e5f1374b2373a') in 0.0380344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.230325 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwFollow.cs
+  artifactKey: Guid(2d2927631b10c2f4b9ce492ed53fd69b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwFollow.cs using Guid(2d2927631b10c2f4b9ce492ed53fd69b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '06509e9475eb1339c24028d5f63c1d71') in 0.028301 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Materials/Trail.mat
+  artifactKey: Guid(a249bfc9d8fe9874890b7170317078ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Materials/Trail.mat using Guid(a249bfc9d8fe9874890b7170317078ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61da7eeeccbe500b3cc3fe4addea1a37') in 0.0417538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.293220 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanScreenQuery.cs
+  artifactKey: Guid(bebe214b343962245875722341016be2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanScreenQuery.cs using Guid(bebe214b343962245875722341016be2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd17c88d533d8aa62f374fc73253a6e3d') in 0.0289245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Required/Scripts
+  artifactKey: Guid(92c538c3bdab43f4aa57df79fec603d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Required/Scripts using Guid(92c538c3bdab43f4aa57df79fec603d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a318661ae5b16b4a077bea34796cbb03') in 0.0206899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragTrail.cs
+  artifactKey: Guid(9f03abde3ceb8184da632ff83c420768) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragTrail.cs using Guid(9f03abde3ceb8184da632ff83c420768) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '97373aaeafbb1afd82cb8772c16c6800') in 0.0245834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217469 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanTwistRotate.cs
+  artifactKey: Guid(52d72cc6210cb7144a24acb7402222a6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanTwistRotate.cs using Guid(52d72cc6210cb7144a24acb7402222a6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd292fd52b8d26c436a3258d8b4a91bc6') in 0.030793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanTwistRotateAxis.cs
+  artifactKey: Guid(dc7c91b26689a054d88448aba6dfe424) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanTwistRotateAxis.cs using Guid(dc7c91b26689a054d88448aba6dfe424) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b31d1a2f55ecbae949bff9dd90241aa6') in 0.0256723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/24       Isolate.unity
+  artifactKey: Guid(7623668b6b9ad5b4aa2ae951866037e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/24       Isolate.unity using Guid(7623668b6b9ad5b4aa2ae951866037e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'caf7558ac7080ba7c1e5ad9e550b6b4e') in 0.0221026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.724526 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanFormatString.cs
+  artifactKey: Guid(b7efa857135ee3242bb57cd8a91087c8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanFormatString.cs using Guid(b7efa857135ee3242bb57cd8a91087c8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5329a76f877af6838c6117d661252100') in 0.0314703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Scripts/LeanTouchEvents.cs
+  artifactKey: Guid(5e801af14bb6ff642a16a53be53348be) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Scripts/LeanTouchEvents.cs using Guid(5e801af14bb6ff642a16a53be53348be) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '24d89b4a3ae465c372132f4021a2f2e2') in 0.0493749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanGesture.cs
+  artifactKey: Guid(da8a88708d8e3f349920ae0d6cc7e3c1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanGesture.cs using Guid(da8a88708d8e3f349920ae0d6cc7e3c1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eff01469f42515fbf966b64d7ba6fa50') in 0.0196658 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Plugins/CW/LeanTouch/GUIDE.asset
+  artifactKey: Guid(88c231c083fde9e4bbc1a7fbb9bb0009) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/GUIDE.asset using Guid(88c231c083fde9e4bbc1a7fbb9bb0009) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70e2fbfd765d3b5717a5a8f1daf4b50f') in 0.023241 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/11 Finger Old.unity
+  artifactKey: Guid(748227db34677044da44badff4bbdb65) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/11 Finger Old.unity using Guid(748227db34677044da44badff4bbdb65) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1c27d7b35939c885a1dde96b4d7e132f') in 0.0213793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Textures/Logo+.png
+  artifactKey: Guid(9674de981b92a37429713c21f4b149ff) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Textures/Logo+.png using Guid(9674de981b92a37429713c21f4b149ff) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '35a77bd57cbba372f8637039fed1a803') in 0.0306038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Plugins/CW/Third-Party Notices.txt
+  artifactKey: Guid(379dc9295e03f7a4b9bf1dc537cf6e49) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Third-Party Notices.txt using Guid(379dc9295e03f7a4b9bf1dc537cf6e49) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd636c247bbbadd3c962f4f9e3c7fe514') in 0.0195366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Meshes/RoundedCube.obj
+  artifactKey: Guid(f36c148914c8e05498dad1ca7becaa2e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Meshes/RoundedCube.obj using Guid(f36c148914c8e05498dad1ca7becaa2e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4498cbac5ee19dcd579d3112013cbb12') in 0.057696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Required/Shaders/ShapeOutline.shader
+  artifactKey: Guid(c55a8fe4b61dcfb41a8aaa1869b89fed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Required/Shaders/ShapeOutline.shader using Guid(c55a8fe4b61dcfb41a8aaa1869b89fed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd808cb43899f0a35c7b3978891257739') in 0.0191116 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwRotate.cs
+  artifactKey: Guid(92ede0252ef7e92459ff5df2a16cd28e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwRotate.cs using Guid(92ede0252ef7e92459ff5df2a16cd28e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c97ed7a784d53afda105e70a6ae70726') in 0.0219868 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Materials/Orange.mat
+  artifactKey: Guid(d15897a066fc1bd4e873db20d70da822) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Materials/Orange.mat using Guid(d15897a066fc1bd4e873db20d70da822) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '261124f8b833e759bf97d19138a8e4ba') in 0.0226947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Materials/Ball.physicMaterial
+  artifactKey: Guid(432080eddf3bc2449a2c54573812900e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Materials/Ball.physicMaterial using Guid(432080eddf3bc2449a2c54573812900e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2032ca5909c7b2af364a0c2803d40321') in 0.0377917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/13    Relative.unity
+  artifactKey: Guid(f4503f8040e549f489cd402bce299069) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/13    Relative.unity using Guid(f4503f8040e549f489cd402bce299069) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b14da830a8465e2564a95d72f9f2706') in 0.0231686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemo.cs
+  artifactKey: Guid(a5270a8e97f926a4bbcf95d4fa31866d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemo.cs using Guid(a5270a8e97f926a4bbcf95d4fa31866d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '93516db04e94289a97e00708b2b70bc9') in 0.0236835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanFinger.cs
+  artifactKey: Guid(0991e6d1946d343449afb6600057d2f4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanFinger.cs using Guid(0991e6d1946d343449afb6600057d2f4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cabe67dcc1e5016a3028e638c8dfd1a4') in 0.0163498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragTranslate.cs
+  artifactKey: Guid(4eda371e5375f454490a86f21559ee38) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragTranslate.cs using Guid(4eda371e5375f454490a86f21559ee38) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '317c5dabf14634ec64b1fec47870a688') in 0.0214069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Required/Scripts/CwEditor.cs
+  artifactKey: Guid(6db2e50665ae04147b7ef6bf70fa0756) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Required/Scripts/CwEditor.cs using Guid(6db2e50665ae04147b7ef6bf70fa0756) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '356cc72898d6c30dae8bd9c8f6fa6e3f') in 0.0168367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanSnapshot.cs
+  artifactKey: Guid(fef9e03c4eb1f4f44894223de421c1b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanSnapshot.cs using Guid(fef9e03c4eb1f4f44894223de421c1b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c99381eb40fef3f272598eff685a8699') in 0.0221319 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Plugins/CW/Shared/Common/Examples/Textures/DemoRight.png
+  artifactKey: Guid(873b489a73575b14fa7f49597735beaa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/Shared/Common/Examples/Textures/DemoRight.png using Guid(873b489a73575b14fa7f49597735beaa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8e661b81e7c74e72bc8ecc715f4ff0e') in 0.0379189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/08    Spawn.unity
+  artifactKey: Guid(935b453473865f3458f13d20bc896092) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/08    Spawn.unity using Guid(935b453473865f3458f13d20bc896092) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd9cef2831ef24edcbfbb667dfbb5a5ce') in 0.0247765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Prefabs/Button.prefab
+  artifactKey: Guid(e397534993a3daa4fb62356a2b6e1856) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Prefabs/Button.prefab using Guid(e397534993a3daa4fb62356a2b6e1856) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '084d60c202ec411245924556a791e2f8') in 0.095917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragCamera.cs
+  artifactKey: Guid(e278200a08f9b9f419a13f87e9559ab1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragCamera.cs using Guid(e278200a08f9b9f419a13f87e9559ab1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '88673888f01d52572d22f2012b08e15e') in 0.0223227 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanSelectableByFinger.cs
+  artifactKey: Guid(83dcd8dace8b7fe449d796b980cb121d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanSelectableByFinger.cs using Guid(83dcd8dace8b7fe449d796b980cb121d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9efddfa4e9e502702c75b962b3a57377') in 0.0205137 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Materials/Line.mat
+  artifactKey: Guid(a7e5a27266ffc1c449993ff1173fe9a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Materials/Line.mat using Guid(a7e5a27266ffc1c449993ff1173fe9a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f5897e734892acc41418a0ef7a869ffc') in 0.0268802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Plugins/CW/LeanTouch/Examples/Scripts/LeanPulseScale.cs
+  artifactKey: Guid(d2cf6a4604a9b1c488ead15354d556b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanTouch/Examples/Scripts/LeanPulseScale.cs using Guid(d2cf6a4604a9b1c488ead15354d556b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bfeec2e396876412ff7302d4d77afbef') in 0.016914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Plugins/CW/LeanCommon/Examples/Textures/Plus.png
+  artifactKey: Guid(db2224dd326a6f447817905cfc1a363f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/CW/LeanCommon/Examples/Textures/Plus.png using Guid(db2224dd326a6f447817905cfc1a363f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '819db55411564c019551f37933070f24') in 0.0322807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.372 seconds
+Refreshing native plugins compatible for Editor in 6.42 ms, found 7 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.593 seconds
+Domain Reload Profiling: 2966ms
+	BeginReloadAssembly (421ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (26ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (141ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (823ms)
+		LoadAssemblies (660ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (337ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (298ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (1593ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1263ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (194ms)
+			ProcessInitializeOnLoadAttributes (910ms)
+			ProcessInitializeOnLoadMethodAttributes (112ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (42ms)
+Refreshing native plugins compatible for Editor in 12.90 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6803 unused Assets / (6.5 MB). Loaded Objects now: 7535.
+Memory consumption went from 147.0 MB to 140.5 MB.
+Total: 33.441900 ms (FindLiveObjects: 2.609300 ms CreateObjectMapping: 1.689400 ms MarkObjects: 12.511000 ms  DeleteObjects: 16.629600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
