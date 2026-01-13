@@ -1,0 +1,36 @@
+.button-green {
+    height: 88px;
+    border-top-left-radius: 69px;
+    border-top-right-radius: 69px;
+    border-bottom-right-radius: 69px;
+    border-bottom-left-radius: 69px;
+    font-size: 66px;
+    background-color: rgb(11, 157, 0);
+}
+
+.button-green:hover {
+    background-color: rgb(56, 182, 0);
+}
+
+.button-green:active {
+    scale: 1.01 1;
+}
+
+.button-blue {
+    width: 752px;
+    height: 156px;
+    border-top-left-radius: 57px;
+    border-top-right-radius: 57px;
+    border-bottom-right-radius: 57px;
+    border-bottom-left-radius: 57px;
+    font-size: 91px;
+    background-color: rgb(92, 122, 255);
+}
+
+.button-blue:hover {
+    background-color: rgb(26, 147, 0);
+}
+
+.button-blue:active {
+    background-color: rgb(96, 255, 3);
+}
